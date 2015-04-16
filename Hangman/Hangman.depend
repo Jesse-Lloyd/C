@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1376355796 source:c:\users\chaos\documents\codeblocks workspace\hangman\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+
