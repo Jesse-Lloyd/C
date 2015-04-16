@@ -1,0 +1,965 @@
+# depslib dependency file v1.0
+1342771189 source:c:\users\chaosincarnate\desktop\c++ projects\first sfml\main.cpp
+	<SFML/Graphics.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1341932658 c:\codeblocks\sfml\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\config.hpp
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<locale>
+	<string>
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\thread.inl
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\threadlocalptr.inl
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\utf.inl
+
+1341932656 c:\codeblocks\sfml\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1341932658 c:\codeblocks\sfml\include\sfml\system\vector2.inl
+
+1341932658 c:\codeblocks\sfml\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1341932658 c:\codeblocks\sfml\include\sfml\system\vector3.inl
+
+1341932658 c:\codeblocks\sfml\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1341932658 c:\codeblocks\sfml\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1341932658 c:\codeblocks\sfml\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+
+1341932658 c:\codeblocks\sfml\include\sfml\window\contextsettings.hpp
+
+1341932658 c:\codeblocks\sfml\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+
+1341932658 c:\codeblocks\sfml\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+
+1341932658 c:\codeblocks\sfml\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1341932658 c:\codeblocks\sfml\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1341932658 c:\codeblocks\sfml\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1341932658 c:\codeblocks\sfml\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<string>
+
+1341932658 c:\codeblocks\sfml\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1341932658 c:\codeblocks\sfml\include\sfml\window\windowstyle.hpp
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\blendmode.hpp
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\rect.inl
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\primitivetype.hpp
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1341932656 c:\codeblocks\sfml\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1343352902 source:c:\users\chaosincarnate\desktop\c++ projects\sfml\main.cpp
+	<SFML/Graphics.hpp>
+
+1343352902 source:c:\users\chaosincarnate\desktop\c++ projects\sfml\pratice\main.cpp
+	<SFML/Graphics.hpp>
+
+1348800655 source:c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\main.cpp
+	<SFML/Graphics.hpp>
+	"player.h"
+	"area.h"
+
+1343790427 c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\include\player.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<conio.h>
+	<sstream>
+	<string.h>
+
+1346810150 c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\classes\player.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<conio.h>
+	<sstream>
+	<string.h>
+
+1346810257 c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\classes\world.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<conio.h>
+	<sstream>
+	<string.h>
+
+1348800160 c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\player.h
+	"movement.h"
+	"stats.h"
+	"BattleSystem.h"
+
+1346811011 c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\world.h
+
+1348688801 c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\areas.h
+	<SFML/Graphics.hpp>
+
+1348552589 c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\tiles.h
+	<SFML/Graphics.hpp>
+
+1348729684 source:c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\areachanger.cpp
+	<math.h>
+	<SFML/Graphics.hpp>
+	"player.h"
+	<conio.h>
+
+1347844565 source:c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\areachanger (2).cpp
+	<math.h>
+	<SFML/Graphics.hpp>
+	"player.h"
+
+1348704275 c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\movement.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<sstream>
+
+1348552443 source:c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\tiles.cpp
+	"areas.h"
+
+1348689910 source:c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\areas.cpp
+	"areas.h"
+	<iostream>
+
+1348801098 source:c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\player.cpp
+	"player.h"
+
+1348716054 c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\stats.h
+
+1348454349 source:c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\enemy.cpp
+	"enemy.h"
+
+1348729563 c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\enemy.h
+	"movement.h"
+	"stats.h"
+	"BattleSystem.h"
+
+1348800637 source:c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\functions.cpp
+	<SFML/Graphics.hpp>
+	"area.h"
+	<sstream>
+	<string>
+
+1348698680 source:c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\area.cpp
+	"area.h"
+	"player.h"
+
+1348696861 c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\area.h
+	<SFML/Graphics.hpp>
+
+1348800637 c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\battlesystem.h
+	<SFML/Graphics.hpp>
+
+1348799968 source:c:\users\chaosincarnate\desktop\c++ projects\sfml\gameone\battlesystem.cpp
+	"BattleSystem.h"
+	<sstream>
+	<string>
+
+1349385724 source:h:\temp\c++ projects\sfml\gameone\main.cpp
+	<SFML/Graphics.hpp>
+	"player.h"
+	"area.h"
+
+1348803760 h:\temp\c++ projects\sfml\gameone\player.h
+	"movement.h"
+	"stats.h"
+	"BattleSystem.h"
+
+1348707875 h:\temp\c++ projects\sfml\gameone\movement.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<sstream>
+
+1348719654 h:\temp\c++ projects\sfml\gameone\stats.h
+
+1349385815 h:\temp\c++ projects\sfml\gameone\battlesystem.h
+	<SFML/Graphics.hpp>
+
+1348700461 h:\temp\c++ projects\sfml\gameone\area.h
+	<SFML/Graphics.hpp>
+
+1349385711 source:h:\temp\c++ projects\sfml\gameone\battlesystem.cpp
+	"BattleSystem.h"
+	<sstream>
+	<string>
+
+1348804698 source:h:\temp\c++ projects\sfml\gameone\player.cpp
+	"player.h"
+
+1348702280 source:h:\temp\c++ projects\sfml\gameone\area.cpp
+	"area.h"
+	"player.h"
+
+1348733284 source:h:\temp\c++ projects\sfml\gameone\areachanger.cpp
+	<math.h>
+	<SFML/Graphics.hpp>
+	"player.h"
+	<conio.h>
+
+1348457949 source:h:\temp\c++ projects\sfml\gameone\enemy.cpp
+	"enemy.h"
+
+1349334902 h:\temp\c++ projects\sfml\gameone\enemy.h
+	"movement.h"
+	"stats.h"
+	"BattleSystem.h"
+
+1348804237 source:h:\temp\c++ projects\sfml\gameone\functions.cpp
+	<SFML/Graphics.hpp>
+	"area.h"
+	<sstream>
+	<string>
+
+1349404116 source:c:\users\chaosincarnate\desktop\gameone\areachanger.cpp
+	<math.h>
+	<SFML/Graphics.hpp>
+	"player.h"
+	<conio.h>
+
+1349985821 c:\users\chaosincarnate\desktop\gameone\player.h
+	"movement.h"
+	"stats.h"
+
+1349831845 c:\users\chaosincarnate\desktop\gameone\movement.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<sstream>
+
+1349829731 c:\users\chaosincarnate\desktop\gameone\stats.h
+
+1349659539 c:\users\chaosincarnate\desktop\gameone\battlesystem.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<string>
+
+1349832089 source:c:\users\chaosincarnate\desktop\gameone\enemy.cpp
+	"enemy.h"
+
+1349985821 c:\users\chaosincarnate\desktop\gameone\enemy.h
+	"movement.h"
+	"stats.h"
+
+1349826686 source:c:\users\chaosincarnate\desktop\gameone\functions.cpp
+	<SFML/Graphics.hpp>
+	"area.h"
+	<sstream>
+	<string>
+	<iostream>
+
+1348700461 c:\users\chaosincarnate\desktop\gameone\area.h
+	<SFML/Graphics.hpp>
+
+1349831836 source:c:\users\chaosincarnate\desktop\gameone\player.cpp
+	"player.h"
+
+1348702280 source:c:\users\chaosincarnate\desktop\gameone\area.cpp
+	"area.h"
+	"player.h"
+
+1350275203 source:c:\users\chaosincarnate\desktop\gameone\battlesystem.cpp
+	<iostream>
+	"Battle.h"
+	"player.h"
+
+1350275239 source:c:\users\chaosincarnate\desktop\gameone\main.cpp
+	<SFML/Graphics.hpp>
+	"player.h"
+	"area.h"
+	"Battle.h"
+
+1349659622 source:c:\users\chaosincarnate\desktop\gameone\battle.cpp
+	"Battle.h"
+	<sstream>
+	<string>
+	<iostream>
+
+1349991090 c:\users\chaosincarnate\desktop\gameone\battle.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<string>
+
+1349660909 c:\users\chaosincarnate\desktop\gameone\battlesystem.cpp
+	<SFML/Graphics.hpp>
+
+1376380604 source:c:\users\chaos\documents\codeblocks workspace\gameone\area.cpp
+	"area.h"
+	"player.h"
+
+1348696861 c:\users\chaos\documents\codeblocks workspace\gameone\area.h
+	<SFML/Graphics.hpp>
+
+1349982221 c:\users\chaos\documents\codeblocks workspace\gameone\player.h
+	"movement.h"
+	"stats.h"
+
+1376381382 c:\users\chaos\documents\codeblocks workspace\gameone\movement.h
+	<SFML/Graphics.hpp>
+	<iostream>
+	<sstream>
+
+1376381392 c:\users\chaos\documents\codeblocks workspace\gameone\stats.h
+
+1349400516 source:c:\users\chaos\documents\codeblocks workspace\gameone\areachanger.cpp
+	<math.h>
+	<SFML/Graphics.hpp>
+	"player.h"
+	<conio.h>
+
+1349828489 source:c:\users\chaos\documents\codeblocks workspace\gameone\enemy.cpp
+	"enemy.h"
+
+1376381367 c:\users\chaos\documents\codeblocks workspace\gameone\enemy.h
+	"movement.h"
+	"stats.h"
+
+1376518375 source:c:\users\chaos\documents\codeblocks workspace\gameone\functions.cpp
+	<SFML/Graphics.hpp>
+	"area.h"
+	<sstream>
+	<string>
+	<iostream>
+
+1349656022 source:c:\users\chaos\documents\codeblocks workspace\gameone\battle.cpp
+	"Battle.h"
+	<sstream>
+	<string>
+	<iostream>
+
+1349987490 c:\users\chaos\documents\codeblocks workspace\gameone\battle.h
+	<SFML/Graphics.hpp>
+	<sstream>
+	<string>
+
+1376519749 source:c:\users\chaos\documents\codeblocks workspace\gameone\main.cpp
+	<SFML/Graphics.hpp>
+	"player.h"
+	"area.h"
+	"Battle.h"
+
+1349828236 source:c:\users\chaos\documents\codeblocks workspace\gameone\player.cpp
+	"player.h"
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1341929058 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\config.hpp
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<locale>
+	<string>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\thread.inl
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\threadlocalptr.inl
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\utf.inl
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1341929058 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\vector2.inl
+
+1341929058 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1341929058 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\system\vector3.inl
+
+1341929058 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1341929058 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1341929058 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+
+1341929058 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\window\contextsettings.hpp
+
+1341929058 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+
+1341929058 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+
+1341929058 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1341929058 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1341929058 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1341929058 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<string>
+
+1341929058 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1341929058 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\window\windowstyle.hpp
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\blendmode.hpp
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\rect.inl
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\primitivetype.hpp
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1341929056 c:\users\chaos\desktop\codeblocks\sfml\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1376519696 source:c:\users\chaos\documents\codeblocks workspace\gameone\battlesystem.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Battle.h"
+	"player.h"
+	"enemy.h"
+

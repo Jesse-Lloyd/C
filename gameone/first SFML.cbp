@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="gameone" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\first SFML" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-DSFML_STATIC" />
+					<Add directory="C:\Users\Chaos\Desktop\Codeblocks\SFML\include" />
+				</Compiler>
+				<Linker>
+					<Add library="C:\Users\Chaos\Desktop\Codeblocks\SFML\lib\SFML\sfml-graphics.a" />
+					<Add library="C:\Users\Chaos\Desktop\Codeblocks\SFML\lib\SFML\sfml-window.a" />
+					<Add library="C:\Users\Chaos\Desktop\Codeblocks\SFML\lib\SFML\sfml-system.a" />
+					<Add directory="C:\Users\Chaos\Desktop\Codeblocks\SFML\lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\first SFML" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="C:\Codeblocks\SFML\include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add directory="C:\Codeblocks\SFML\lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Battle.cpp" />
+		<Unit filename="Battle.h" />
+		<Unit filename="BattleSystem.cpp" />
+		<Unit filename="Player.cpp" />
+		<Unit filename="area.cpp" />
+		<Unit filename="area.h" />
+		<Unit filename="areachanger.cpp" />
+		<Unit filename="enemy.cpp" />
+		<Unit filename="enemy.h" />
+		<Unit filename="functions.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="movement.h" />
+		<Unit filename="player.h" />
+		<Unit filename="stats.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
